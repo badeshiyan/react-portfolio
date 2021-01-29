@@ -1,5 +1,6 @@
 import React from "react";
-import AboutText from "../../components/AboutText/AboutText";
+import AboutText from "../../Components/AboutText/AboutText";
+import "./About.css";
 
 const About = () => {
   return (

@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import emailjs from "emailjs-com";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.min.css";
+import React, { Component } from "./node_modules/react";
+import emailjs from "./node_modules/emailjs-com";
+import { ToastContainer, toast } from "./node_modules/react-toastify";
+import "./node_modules/react-toastify/dist/ReactToastify.min.css";
 
 // Email validation
 const emailRegex = RegExp(
