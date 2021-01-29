@@ -4,20 +4,23 @@ import Contact from "./containers/Contact/Contact.jsx";
 import Portfolio from "./containers/Portfolio/Portfolio.jsx";
 import NavBar from "./components/Navbar/Navbar.jsx";
 import Footer from "./components/Footer/Footer.jsx";
+import React, { Fragment } from "react";
 
 function App() {
   return (
-    <div className="App">
-      <Router>
-        <NavBar />
-        <Switch>
-          <Route exact path="/about" component={About} />
-          <Route exact path="/contact" component={Contact} />
-          <Route exact path="/portfolio" component={Portfolio} />
-        </Switch>
-        <Footer />
-      </Router>
-    </div>
+    <Fragment>
+      <div className="App">
+        <Router>
+          <NavBar />
+          <Switch>
+            <Route exact path="/about" component={About} />
+            <Route exact path="/contact" component={Contact} />
+            <Route exact path="/portfolio" component={Portfolio} />
+          </Switch>
+          <Footer />
+        </Router>
+      </div>
+    </Fragment>
   );
 }
 
