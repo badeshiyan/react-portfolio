@@ -1,9 +1,10 @@
 import React from "react";
+import CardTitle from "../CardTitle/CardTitle";
 
 const AboutText = () => {
   return (
     <main className="white-bg p-4">
-      <h1 className="h1">About Me</h1>
+      <CardTitle/>
       <hr />
       <section className="container">
         <div className="row">
