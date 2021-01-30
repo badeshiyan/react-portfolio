@@ -5,17 +5,24 @@ import Portfolio from "./Containers/Portfolio/Portfolio.jsx";
 import NavBar from "./Components/Navbar/Navbar.jsx";
 import Footer from "./Components/Footer/Footer.jsx";
 
+const styles = {
+  backgroundImage: "url('https://wallpapercave.com/wp/wp4222009.jpg')",
+  alignItems: "center",
+};
+
 function App() {
   return (
-    <Router>
-      <NavBar />
-      <Switch>
-        <Route exact path="/about" component={About} />
-        <Route exact path="/contact" component={Contact} />
-        <Route exact path="/portfolio" component={Portfolio} />
-      </Switch>
-      <Footer />
-    </Router>
+    <div className="App" style={styles}>
+      <Router>
+        <NavBar />
+        <Switch>
+          <Route exact path="/about" component={About} />
+          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/portfolio" component={Portfolio} />
+        </Switch>
+        <Footer />
+      </Router>
+    </div>
   );
 }
 
