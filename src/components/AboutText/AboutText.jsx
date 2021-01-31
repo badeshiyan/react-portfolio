@@ -3,8 +3,8 @@ import CardTitle from "../CardTitle/CardTitle";
 
 const AboutText = () => {
   return (
-    <main className="white-bg p-4">
-      <CardTitle/>
+    <main className="black-bg p-4">
+      <CardTitle />
       <hr />
       <section className="container">
         <div className="row">
@@ -15,7 +15,7 @@ const AboutText = () => {
               id="about"
               alt="aboutmeheadshot"
             />
-            <p>
+            <h2 style={{ color: "white" }}>
               Greetings – I am Bambo Adeshiyan, and I am currently enrolled in
               Georgia Tech’s Full Stacking Coding Bootcamp. Born and raised in
               Huntsville, AL, I am of Nigerian descent and currently reside in
@@ -29,7 +29,7 @@ const AboutText = () => {
               MySQL, MongoDB, React, C#, ASP.NET, Heroku/Git deployment, among
               many others. With this skillset, it is my intent to join a team in
               a tech project management capacity.
-            </p>
+            </h2>
           </div>
         </div>
       </section>

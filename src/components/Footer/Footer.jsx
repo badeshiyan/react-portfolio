@@ -4,6 +4,7 @@ import {
   GithubOutlined,
   FilePdfOutlined,
 } from "@ant-design/icons";
+import "./Footer.css";
 
 const Footer = () => {
   return (
@@ -28,7 +29,10 @@ const Footer = () => {
               <FilePdfOutlined />
             </a>
           </div>
-          <div className="col-md-6 d-flex align-items-center align-self-center">
+          <div
+            style={{ color: "white" }}
+            className="col-md-6 d-flex align-items-center align-self-center"
+          >
             &copy; Copyright 2021 Bambo Adeshiyan
           </div>
         </div>
