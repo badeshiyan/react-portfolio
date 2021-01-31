@@ -1,13 +1,14 @@
-.footer {
+footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: gray;
+  background-color: rgb(0, 0, 0);
   color: lightslategray;
   text-align: center;
+  position: sticky;
   display: flex;
   align-items: center;
-  margin-top: 150px;
-  border-top: rgb(0, 51, 128) solid 5px;
+  margin-top: 10px;
+  border-top: rgb(128, 0, 0) solid 5px;
   font: 15px;
 }
