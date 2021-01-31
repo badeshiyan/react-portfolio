@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import About from "./Containers/About/About.jsx";
 import Contact from "./Containers/Contact/Contact.jsx";
 import Portfolio from "./Containers/Portfolio/Portfolio.jsx";
@@ -14,7 +14,7 @@ const styles = {
 function App() {
   return (
     <div className="App" style={styles}>
-      <Router>
+      <Router basename="/">
         <NavBar />
         <Switch>
           <Route exact path="/about" component={About} />
