@@ -16,7 +16,7 @@ Please find the deployed webpage link here:
 
 ## Screenshot of Generated Application
 
-![Adeshiyan Portfolio Screenshot](./src/assets/images/reactportfolio.png/assets/images/reactportfolio.png)
+![Adeshiyan Portfolio Screenshot](./src/assets/images/reactportfolio.png)
 
 ## Credits/Resources
 
