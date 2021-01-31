@@ -27,6 +27,15 @@ const Navbar = () => {
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
               <NavLink
+                to="/about"
+                className="nav-link"
+                activeClassName="active"
+              >
+                About
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink
                 to="/portfolio"
                 className="nav-link"
                 activeClassName="active"
