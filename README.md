@@ -16,9 +16,7 @@ Please find the deployed webpage link here:
 
 ## Screenshot of Generated Application
 
-![Adeshiyan Budget Tracker Gif](./assets/budget.gif)
-
-![Adeshiyan Budget Tracker Screenshot]
+![Adeshiyan Portfolio Screenshot](./assets/images/reactportfolio.png)
 
 ## Credits/Resources
 
