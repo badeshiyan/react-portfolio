@@ -1,14 +1,14 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "What Da Ya Have?",
-    "image": "../../assets/images/Project1.png",
+    "image": "../../assets/images/Food1.png",
     "alt": "project one application",
     "link": "https://badeshiyan.github.io/What-da-ya-have/",
     "link2": "https://github.com/badeshiyan/Track-Finder-App"
   },
   {
-    "id": 2,
+    "id": 1,
     "name": "Track Finder App",
     "image": "../../assets/images/Trackfindersnapshot.png",
     "alt": "track finder application",
@@ -16,7 +16,7 @@
     "link2": "https://github.com/badeshiyan/Track-Finder-App"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Workout Tracker",
     "image": "../../assets/images/Tracker.gif",
     "alt": "workout tracker application",
@@ -24,7 +24,7 @@
     "link2": "https://github.com/badeshiyan/workout-tracker"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Budget Tracker",
     "image": "../../assets/images/Budget.gif",
     "alt": "workout tracker application",
@@ -32,14 +32,14 @@
     "link2": "https://github.com/badeshiyan/budget-tracker"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Employee Tracker",
     "image": "../../assets/images/Tracker1.gif",
     "alt": "employee tracker application",
     "link": "https://github.com/badeshiyan/employee-tracker"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Burger Logger",
     "image": "../../assets/images/Burger1.png",
     "alt": "burger logger application",

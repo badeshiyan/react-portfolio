@@ -5,7 +5,7 @@ class Contact extends Component {
   render() {
     return (
       <>
-        <div className="container" style={{ padding: "100px" }}>
+        <div className="container" style={{ padding: "55px" }}>
           <div className="row">
             <div className="col-12">
               <div className="card">
