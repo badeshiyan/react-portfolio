@@ -12,7 +12,7 @@ Please find the deployed webpage link here: https://badeshiyan.github.io/react-p
 
 ## Video of Application User Flow
 
-![Adeshiyan Budget Tracker Gif](./assets/images/reactportfolio.png)
+![Adeshiyan Portfolio Gif](./src/assets/images/portfolio.gif)
 
 ## Screenshot of Generated Application
 
