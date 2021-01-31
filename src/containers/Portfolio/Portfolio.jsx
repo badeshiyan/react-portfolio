@@ -1,11 +1,9 @@
-import React from 'react';
+import React from "react";
+import "./Portfolio.css";
+import projects from "../../projects.json";
 
 const Portfolio = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <div></div>;
 };
 
 export default Portfolio;
