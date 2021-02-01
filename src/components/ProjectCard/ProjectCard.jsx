@@ -1,11 +1,22 @@
 import React from "react";
-import projects from "../../projects.json";
 
-const Project = ({ title, text, image, deployedLink, repoLink }) => {
+const Project = ({ title, image, deployedLink, repoLink }) => {
   return (
     <div>
-      <p>{title}</p>
-      <p>{text}</p>
+      <div className="card">
+        <div className="card-body">
+          <img src={image} />
+          <h5 className="card-title">{title}</h5>
+        </div>
+        <div className="card-body">
+          <a href={deployedLink} className="card-link">
+            Deployed Site Link
+          </a>
+          <a href={repoLink} className="card-link">
+            Github Repo Link
+          </a>
+        </div>
+      </div>
     </div>
   );
 };

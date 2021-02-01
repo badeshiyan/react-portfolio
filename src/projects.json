@@ -2,10 +2,10 @@
   {
     "id": 0,
     "name": "What Da Ya Have?",
-    "image": "../../assets/images/Food1.png",
+    "image": "assets/images/Food1.png",
     "alt": "project one application",
     "link": "https://badeshiyan.github.io/What-da-ya-have/",
-    "link2": "https://github.com/badeshiyan/Track-Finder-App"
+    "link2": "https://github.com/badeshiyan/What-da-ya-have"
   },
   {
     "id": 1,
