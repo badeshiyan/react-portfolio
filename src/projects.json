@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "What Da Ya Have?",
-    "image": "assets/images/Food1.png",
+    "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/Food1.png?raw=true",
     "alt": "project one application",
     "link": "https://badeshiyan.github.io/What-da-ya-have/",
     "link2": "https://github.com/badeshiyan/What-da-ya-have"
@@ -10,7 +10,7 @@
   {
     "id": 1,
     "name": "Track Finder App",
-    "image": "../../assets/images/Trackfindersnapshot.png",
+    "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/Trackfindersnapshot.png?raw=true",
     "alt": "track finder application",
     "link": "https://polar-castle-76740.herokuapp.com/",
     "link2": "https://github.com/badeshiyan/Track-Finder-App"
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "name": "Workout Tracker",
-    "image": "../../assets/images/Tracker.gif",
+    "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/Tracker.gif?raw=true",
     "alt": "workout tracker application",
     "link": "https://enigmatic-citadel-15539.herokuapp.com/",
     "link2": "https://github.com/badeshiyan/workout-tracker"
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "Budget Tracker",
-    "image": "../../assets/images/Budget.gif",
+    "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/Budget.gif?raw=true",
     "alt": "workout tracker application",
     "link": "https://guarded-crag-73571.herokuapp.com/",
     "link2": "https://github.com/badeshiyan/budget-tracker"
@@ -34,14 +34,14 @@
   {
     "id": 4,
     "name": "Employee Tracker",
-    "image": "../../assets/images/Tracker1.gif",
+    "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/Tracker1.gif?raw=true",
     "alt": "employee tracker application",
     "link": "https://github.com/badeshiyan/employee-tracker"
   },
   {
     "id": 5,
     "name": "Burger Logger",
-    "image": "../../assets/images/Burger1.png",
+    "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/Burger1.png?raw=true",
     "alt": "burger logger application",
     "link": "https://infinite-basin-56194.herokuapp.com/",
     "link2": "https://github.com/badeshiyan/burger"
