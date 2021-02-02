@@ -33,10 +33,11 @@
   },
   {
     "id": 4,
-    "name": "Employee Tracker",
+    "name": "Note Taker",
     "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/Tracker1.gif?raw=true",
-    "alt": "employee tracker application",
-    "link": "https://github.com/badeshiyan/employee-tracker"
+    "alt": "note taker application",
+    "link": "https://enigmatic-headland-32073.herokuapp.com/notes",
+    "link2": "https://github.com/badeshiyan/note-taker"
   },
   {
     "id": 5,
