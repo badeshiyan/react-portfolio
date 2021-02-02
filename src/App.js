@@ -8,7 +8,7 @@ import Home from "./Containers/About/About.jsx";
 
 const styles = {
   backgroundImage: "url('https://wallpapercave.com/wp/wp4222009.jpg')",
-  alignItems: "center",
+  alignItems: "stretch",
 };
 
 function App() {

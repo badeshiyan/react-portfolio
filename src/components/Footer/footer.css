@@ -5,7 +5,7 @@ footer {
   background-color: rgb(0, 0, 0);
   color: lightslategray;
   text-align: center;
-  position: sticky;
+  position: fixed;
   display: flex;
   align-items: center;
   margin-top: 10px;
