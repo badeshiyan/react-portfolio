@@ -5,7 +5,7 @@ const Project = ({ title, image, deployedLink, repoLink }) => {
     <div>
       <div className="card">
         <div className="card-body">
-          <img src={image} />
+          <img src={image} alt="" />
           <h5 className="card-title">{title}</h5>
         </div>
         <div className="card-body">
