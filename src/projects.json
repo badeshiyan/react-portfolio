@@ -34,7 +34,7 @@
   {
     "id": 4,
     "name": "Note Taker",
-    "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/Tracker1.gif?raw=true",
+    "image": "https://github.com/badeshiyan/react-portfolio/blob/main/src/assets/images/notetaker1.png?raw=true",
     "alt": "note taker application",
     "link": "https://enigmatic-headland-32073.herokuapp.com/notes",
     "link2": "https://github.com/badeshiyan/note-taker"
