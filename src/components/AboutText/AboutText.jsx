@@ -17,12 +17,12 @@ const AboutText = () => {
             />
             <h2 style={{ color: "white" }}>
               Greetings – I am Bambo Adeshiyan, and I am currently enrolled in
-              Georgia Tech’s Full Stacking Coding Bootcamp. Born and raised in
-              Huntsville, AL, I am of Nigerian descent and currently reside in
-              the Atlanta metro area. Earning both a Bachelor of Arts and Master
-              of Arts degrees in Communications from Alabama State University
-              and Howard University, respectively, I have several years of
-              public relations, brand management and account management
+              Georgia Tech’s Full Stack Web Development Bootcamp. Born and
+              raised in Huntsville, AL, I am of Nigerian descent and currently
+              reside in the Atlanta metro area. Earning both a Bachelor of Arts
+              and Master of Arts degrees in Communications from Alabama State
+              University and Howard University, respectively, I have several
+              years of public relations, brand management and account management
               experience. Upon completion of the bootcamp, I will be well-versed
               and knowledgeable in the following web development concepts:
               HTML5, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js,
