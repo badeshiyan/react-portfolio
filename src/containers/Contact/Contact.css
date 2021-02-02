@@ -1,6 +1,3 @@
-/* h1 { */
-/* text-align: center; */
-/* } */
-/* .card-body {
-  align-self: start;
-} */
+footer {
+  position: sticky;
+}

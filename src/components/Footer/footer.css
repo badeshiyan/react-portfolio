@@ -8,8 +8,9 @@ footer {
   text-align: center;
   position: sticky;
   display: flex;
-  align-items: center;
+  align-items: stretch;
   margin-top: 10px;
+  margin-bottom: 10px;
   border-top: rgb(128, 0, 0) solid 5px;
   font: 15px;
 }

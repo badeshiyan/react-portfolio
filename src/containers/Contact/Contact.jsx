@@ -5,8 +5,8 @@ class Contact extends Component {
   render() {
     return (
       <>
-        <main className="white-bg p-2">
-          <h1 className="h1">Contact Information</h1>
+        <main className="white-bg p-10 col-md-1">
+          <h1 className="h1">FIND CONTACT INFORMATION BELOW- THANK YOU.</h1>
           {/* <hr /> */}
           <form>
             <img
