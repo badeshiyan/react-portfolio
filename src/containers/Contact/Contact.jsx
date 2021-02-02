@@ -6,7 +6,7 @@ class Contact extends Component {
     return (
       <>
         <main className="white-bg p-10 col-md-1">
-          <h1 className="h1">FIND CONTACT INFORMATION BELOW- THANK YOU.</h1>
+          <h1 className="h1">PLEASE FIND MY CONTACT INFORMATION BELOW- THANK YOU.</h1>
           {/* <hr /> */}
           <form>
             <img

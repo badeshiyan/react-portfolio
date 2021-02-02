@@ -3,7 +3,7 @@ import React from "react";
 const Project = ({ title, image, deployedLink, repoLink }) => {
   return (
     <div>
-      <div className="card-sm-6">
+      <div className="card-sm-11">
         <div className="card-body">
           <img src={image} alt="" />
           <h5 style={{ color: "white" }}className="card-title">{title}</h5>
