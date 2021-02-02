@@ -15,6 +15,11 @@ class Contact extends Component {
               </a>
             </p>
             <p>
+              <a href="mailto:bambo.tech.adeshiyan@gmail.com" id="link">
+                bambo.tech.adeshiyan@gmail.com
+              </a>
+            </p>
+            <p>
               <a href="tel:6784380401" id="link">
                 678.438.0401
               </a>
