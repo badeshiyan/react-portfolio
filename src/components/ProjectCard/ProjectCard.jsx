@@ -4,11 +4,13 @@ import PortfolioTitle from "../PortfolioTitle/PortfolioTitle";
 const Project = ({ title, image, deployedLink, repoLink }) => {
   return (
     <div>
-      <PortfolioTitle/>
+      <PortfolioTitle />
       <div className="card-sm-11">
         <div className="card-body">
+          <h5 style={{ color: "white" }} className="card-title">
+            {title}
+          </h5>
           <img src={image} alt="" />
-          <h5 style={{ color: "white" }}className="card-title">{title}</h5>
         </div>
         <div className="card-body">
           <a href={deployedLink} className="card-link">
