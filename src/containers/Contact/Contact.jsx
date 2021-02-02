@@ -9,6 +9,12 @@ class Contact extends Component {
           <h1 className="h1">Contact Information</h1>
           {/* <hr /> */}
           <form>
+            <img
+              src="https://github.com/badeshiyan/bamboadeshiyan-portfolio-2020/blob/master/assets/images/headshot.jpg?raw=true"
+              id="about"
+              alt="aboutmeheadshot"
+            />
+
             <p>
               <a href="mailto:badeshiyan@gmail.com" id="link">
                 badeshiyan@gmail.com

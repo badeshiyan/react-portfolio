@@ -3,10 +3,10 @@ import React from "react";
 const Project = ({ title, image, deployedLink, repoLink }) => {
   return (
     <div>
-      <div className="card">
+      <div className="card-sm-6">
         <div className="card-body">
           <img src={image} alt="" />
-          <h5 className="card-title">{title}</h5>
+          <h5 style={{ color: "white" }}className="card-title">{title}</h5>
         </div>
         <div className="card-body">
           <a href={deployedLink} className="card-link">
