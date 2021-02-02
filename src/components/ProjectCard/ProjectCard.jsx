@@ -1,8 +1,10 @@
 import React from "react";
+import PortfolioTitle from "../PortfolioTitle/PortfolioTitle";
 
 const Project = ({ title, image, deployedLink, repoLink }) => {
   return (
     <div>
+      <PortfolioTitle/>
       <div className="card-sm-11">
         <div className="card-body">
           <img src={image} alt="" />
