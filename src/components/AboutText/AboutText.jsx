@@ -16,8 +16,8 @@ const AboutText = () => {
               alt="aboutmeheadshot"
             />
             <h2 style={{ color: "white" }}>
-              Greetings – I am Bambo Adeshiyan, and I am currently enrolled in
-              Georgia Tech’s Full Stack Web Development Bootcamp. Born and
+              Greetings – I am Bambo Adeshiyan, and I am a February 2021 graduate 
+              of · · Georgia Tech’s Full Stack Web Development Bootcamp. Born and
               raised in Huntsville, AL, I am of Nigerian descent and currently
               reside in the Atlanta metro area. Earning both a Bachelor of Arts
               and Master of Arts degrees in Communications from Alabama State
